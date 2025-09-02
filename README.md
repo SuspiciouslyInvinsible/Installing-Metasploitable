@@ -21,8 +21,20 @@ OPEN KALI LINUX AND INSTALL METASPLOITABLE IN VM, FOR THAT FOLLOW THE STEPS:
    IN THIS STEP CHOOSE USE AN EXISTING VIRTUAL HARD DISK FILE AND SELECT .VMDK FILE YOU DOWNLOADED EARLIER
 
 
-4. CLICK ADD AND SELECT THE VMDK FILE
+4. CLICK ADD AND SELECT THE VMDK FILE 
    <img width="1203" height="1005" alt="" src="https://github.com/user-attachments/assets/2b6bc549-0e29-4118-a91e-adff573142e3" />
+
+
+
+5. THEN , CLICK FINISH AND RUN METASPLOITABLE FROM VIRTUAL BOX
+   <img width="1055" height="694" alt="" src="https://github.com/user-attachments/assets/73e0a7ba-c75d-4baa-9fd5-dd1cc263e6e8" />
+
+
+6. USERNAME: msfadmin & PASSWD: msfadmin
+   <img width="722" height="493" alt="" src="https://github.com/user-attachments/assets/48fc63db-1fbc-4000-ada9-5607c8ad009a" />
+
+   
+   
 
    
 
