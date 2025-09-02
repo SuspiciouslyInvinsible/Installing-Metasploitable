@@ -1,3 +1,8 @@
+**GUIDE TO INSTALL METASPLOITABLE2**
+<img width="722" height="493" alt="" src="https://github.com/user-attachments/assets/b235e278-683c-4408-b0ce-a9cc2820b5a6" />
+
+
+
 STEP 1 : 
 VISIT AND DOWNLOAD METASPLOITABLE 2 RAR FILE FROM THE FOLLOWING OFFICIAL SOURCE FORGE LINK:
 https://sourceforge.net/projects/metasploitable/
